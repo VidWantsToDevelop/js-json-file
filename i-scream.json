@@ -16,11 +16,20 @@
         {
             "name" : "Peach Mango",
             "calories" : 150,
-            "type" : "Milkshake-type ice-cream",
+            "type" : "Sorbet",
             "ingredients" : [
                 "Shot of a peach syrup", "Sorbet base", "Mango chunks"
             ],
             "image" : "images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Passion",
+            "calories" : 220,
+            "type" : "Sorbet",
+            "ingredients" : [
+                "Strawberries", "Passion fruit", "Sorbet base"
+            ],
+            "image" : "images/strawberry-sprinkle.svg"
         }
     ]
 }
