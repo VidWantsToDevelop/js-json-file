@@ -30,6 +30,24 @@
                 "Strawberries", "Passion fruit", "Sorbet base", "Chocolate drizzle", "Sprinkles"
             ],
             "image" : "images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Crispy Cone",
+            "calories" : 300,
+            "type" : "ice-cream",
+            "ingredients" : [
+                "Crispy Cone", "Cream", "Vanilla syrup"
+            ],
+            "image" : "images/crispy-cone.png"
+        },
+        {
+            "name": "Childhood Memories",
+            "calories" : 700,
+            "type" : "bowl of ice-cream",
+            "ingredients" : [
+                "Chocolate", "Vanilla", "Strawberry", "Sprinkles", "Chocolate drizzle", "Caramel drizzle", "Whipped cream", "Cherry"
+            ],
+            "image" : "images/childhood.png"
         }
     ]
 }
