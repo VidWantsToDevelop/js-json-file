@@ -27,7 +27,7 @@
             "calories" : 220,
             "type" : "Sorbet",
             "ingredients" : [
-                "Strawberries", "Passion fruit", "Sorbet base", "Chocolate drizzle", "Sprinkles"
+                "Strawberries", "Passion fruit", "Sorbet base"
             ],
             "image" : "images/strawberry-sprinkle.svg"
         }
