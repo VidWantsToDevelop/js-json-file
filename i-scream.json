@@ -16,7 +16,7 @@
         {
             "name" : "Peach Mango",
             "calories" : 150,
-            "type" : "Sorbet",
+            "type" : "sorbet",
             "ingredients" : [
                 "Shot of a peach syrup", "Sorbet base", "Mango chunks"
             ],
@@ -25,7 +25,7 @@
         {
             "name": "Strawberry Passion",
             "calories" : 220,
-            "type" : "Sorbet",
+            "type" : "sorbet",
             "ingredients" : [
                 "Strawberries", "Passion fruit", "Sorbet base", "Chocolate drizzle", "Sprinkles"
             ],
@@ -36,7 +36,7 @@
             "calories" : 300,
             "type" : "ice-cream",
             "ingredients" : [
-                "Crispy Cone", "Cream", "Vanilla syrup"
+                "Crispy Cone", "Cream", "Vanilla syrup", "Love and Happiness"
             ],
             "image" : "images/crispy-cone.png"
         },
@@ -45,7 +45,7 @@
             "calories" : 700,
             "type" : "bowl of ice-cream",
             "ingredients" : [
-                "Chocolate", "Vanilla", "Strawberry", "Sprinkles", "Chocolate drizzle", "Caramel drizzle", "Whipped cream", "Cherry"
+                "Chocolate", "Vanilla", "Strawberry", "Sprinkles", "Chocolate drizzle", "Caramel drizzle", "Whipped cream", "Cherry", "Warm waffle"
             ],
             "image" : "images/childhood.png"
         }
