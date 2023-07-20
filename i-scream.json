@@ -1,0 +1,26 @@
+{
+    "companyName" : "Company Name",
+    "headOffice" : "North York, ON",
+    "established" : 2015,
+    "active" : true,
+    "topFlavors" : [
+        {
+            "name" : "Chocolate Mint",
+            "calories" : 150,
+            "type" : "ice-cream",
+            "ingridients" : [
+                "Chocolate", "Mint", "Milk"
+            ],
+            "image" : "images/chocolate-mint.svg"
+        }, 
+        {
+            "name" : "Peach Mango",
+            "calories" : 150,
+            "type" : "Milkshake-type ice-cream",
+            "ingridients" : [
+                "Shot of a peach syrup", "Sorbet base", "Mango chunks"
+            ],
+            "image" : "images/peach-mango.svg"
+        }
+    ]
+}
